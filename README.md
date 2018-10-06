@@ -5,4 +5,7 @@
 #### 只有当含有雷的格子都被右键旗子标记，同时，雷的剩余数量是0时，即成功的找出了所有的雷
 
 ### 失败的情况：
+<img src = 'https://github.com/zhuyuzhu/sweep-mine/blob/master/images/fail.jpg' width=600 height=360 />
+
+### 成功的情况：
 <img src = 'https://github.com/zhuyuzhu/sweep-mine/blob/master/images/success.jpg' width=600 height=360 />
